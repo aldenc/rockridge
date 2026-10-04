@@ -1,5 +1,8 @@
 ---
 layout: post
+
+redirect_from:
+  - https://aldenc.github.io/Rockridge/
 ---
 
 We invite you to join your neighbors in a discussion about traffic in the Rockridge Trapezoid (the neighborhood enclosed by Alcatraz, College, Telegraph and Claremont) at 6:30pm on Monday, October 26th at the College Avenue Presbyterian Church (5951 College Ave). 
