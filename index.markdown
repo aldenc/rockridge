@@ -5,5 +5,5 @@
 layout: home
 
 redirect_from:
-  - https://aldenc.github.io/Rockridge/
+  - aldenc.github.io/Rockridge/
 ---
